@@ -1,10 +1,10 @@
 {
-    "tag":  "v0.13.1",
-    "versionCode":  30,
+    "tag":  "v0.14.0",
+    "versionCode":  31,
     "packageId":  "com.piccut.app",
-    "apkUrl":  "https://github.com/jonghyunseo/pic-cut-releases/releases/download/v0.13.1/PicCut-0.13.1-debug.apk",
-    "checksumUrl":  "https://github.com/jonghyunseo/pic-cut-releases/releases/download/v0.13.1/SHA256SUMS.txt",
-    "bytes":  63012607,
-    "sha256":  "6f82119f0d03bc68ef8f64cbcc8e8dcbd1d43f59181893abc476c0dd136b303a",
-    "verifiedAppCommit":  "1160f23c1ef757e3d6c59184094477ec7f35ed8c"
+    "apkUrl":  "https://github.com/jonghyunseo/pic-cut-releases/releases/download/v0.14.0/PicCut-0.14.0-debug.apk",
+    "checksumUrl":  "https://github.com/jonghyunseo/pic-cut-releases/releases/download/v0.14.0/SHA256SUMS.txt",
+    "bytes":  64294181,
+    "sha256":  "434a65034a46adeb24dc92bd196c0e4b576b11fcfde3c49af860963147c5bac2",
+    "verifiedAppCommit":  "973914b4a20c70dda4bbe457a862b751515ad64c"
 }
