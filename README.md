@@ -4,6 +4,10 @@
 
 **[웹사이트](https://jonghyunseo.github.io/pic-cut-releases/) · [APK 다운로드](https://github.com/jonghyunseo/pic-cut-releases/releases/latest)**
 
+**[같은 순간, 다른 픽 — 사진 취향 맞춰보기](https://jonghyunseo.github.io/pic-cut-releases/play/)**
+
+설치 없이 반려견 사진 세 쌍을 고르고 친구와 선택을 비교합니다. 결과의 공유 버튼에서 카카오톡(기기 공유창·링크 복사), X, 페이스북으로 도전 링크를 보낼 수 있습니다. 상대의 실제 선택과 비교하며 개인 사진 업로드·로그인·방문 분석은 사용하지 않습니다. 도전 주소는 선택을 담고 있으므로 다른 사람에게 전달될 수 있습니다.
+
 ## 설치
 
 Android 10 이상에서 릴리즈의 APK를 받아 설치하세요. 최초 설치 시 Android가 요청하는 앱 설치 권한을 허용해야 할 수 있습니다. 기존 앱과 같은 패키지명과 서명을 사용하므로 앱을 삭제하지 않고 업데이트할 수 있습니다. 현재 배포 APK는 기존 설치와 호환되는 debug 서명 빌드입니다.
